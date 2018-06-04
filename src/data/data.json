@@ -1,0 +1,20 @@
+[
+    {"year": 2000, "deaths": 12},
+    {"year": 2001, "deaths": 11},
+    {"year": 2002, "deaths": 10},
+    {"year": 2003, "deaths": 8},
+    {"year": 2004, "deaths": 9},
+    {"year": 2005, "deaths": 9},
+    {"year": 2006, "deaths": 14},
+    {"year": 2007, "deaths": 13},
+    {"year": 2008, "deaths": 9},
+    {"year": 2009, "deaths": 14},
+    {"year": 2010, "deaths": 8},
+    {"year": 2011, "deaths": 11},
+    {"year": 2012, "deaths": 9},
+    {"year": 2013, "deaths": 9},
+    {"year": 2014, "deaths": 9},
+    {"year": 2015, "deaths": 11},
+    {"year": 2016, "deaths": 7},
+    {"year": 2017, "deaths": 12}
+  ]
