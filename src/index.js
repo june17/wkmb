@@ -12,12 +12,12 @@ function sum(data){
     var out=0;
     for(i in data)
         {
-            console.log(data[i].deaths);
+  //          console.log(data[i].deaths);
             out= out + data[i].deaths;
             i++;
         }
     total=out;
-    console.log(out);
+//    console.log(out);
 }
 
 sum(data);
