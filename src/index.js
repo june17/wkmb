@@ -4,6 +4,7 @@ import './index.scss';
 import { BarChart, Bar,Tooltip } from 'recharts';
 import data from './data/data.json';
 import { StatsWidget } from './components/statsheader';
+import { QuesWidget } from './components/firescripts.js';
 
 var total=0;
 
@@ -39,3 +40,7 @@ ReactDOM.render(
   barchart,
   document.getElementById('container')
 );
+
+// ReactDOM.render(
+//     quewidget, document.getElementById('questions')
+// );
